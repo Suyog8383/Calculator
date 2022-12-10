@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url("./new-pic.jpg");
+  background-image: url("new-pic.jpg");
   background-size: cover;
   object-fit: cover;
 }
@@ -25,3 +25,4 @@ button {
   border: 2px solid black;
   border-radius: 5px;
 }
+  
